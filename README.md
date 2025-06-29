@@ -36,7 +36,13 @@
 - 🌐 Website: [Personal blog](https://aaricis.github.io/)
 - 🚀 Projects: Coming soon
 
+# 🤗 GitHub Stats 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Aaricis&show_icons=true&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaricis&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+</div>
 
+# ⚡ Metrics
 </td></tr>
 <div>
 <!-- metrics 基础资料 -->
@@ -56,16 +62,8 @@
 </div>
 
 
-## 🤗 GitHub Stats 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Aaricis&show_icons=true&theme=light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaricis&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-</div>
 
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Aaricis" /> </div>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aaricis)
 
 
 
