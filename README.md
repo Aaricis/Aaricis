@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%" />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaricis)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaricis)
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%" />
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaricis)
+
 
 
