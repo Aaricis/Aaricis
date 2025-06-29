@@ -39,6 +39,11 @@
 # 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [李宏毅-ML2022-HW15-Meta Learning](https://aaricis.github.io/posts/Homework-15-Meta-Learning/)
+- [李宏毅-ML2022-HW14-Lifelong Learning](https://aaricis.github.io/posts/Homework-14-Lifelong-Learning/)
+- [李宏毅-ML2022-HW13-Network Compression](https://aaricis.github.io/posts/Homework-13-Network-Compression/)
+- [李宏毅-ML2022-HW12-Reinforcement Learning](https://aaricis.github.io/posts/Homework-12-Reinforcement-Learning/)
+- [Build Transformer Form Scratch](https://aaricis.github.io/posts/Build-Transformer-Form-Scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 
