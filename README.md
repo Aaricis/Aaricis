@@ -59,7 +59,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaricis)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaricis)
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Aaricis" /> </div>
 
