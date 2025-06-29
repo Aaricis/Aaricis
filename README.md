@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Aaricis)
 
-![](https://stats.justsong.cn/api/leetcode?username=aaricis&cn=true)
+![](https://stats.justsong.cn/api/leetcode?username=Aaricis&cn=true)
 
 
 
