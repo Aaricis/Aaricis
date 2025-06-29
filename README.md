@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaricis)
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%" />
+
 
