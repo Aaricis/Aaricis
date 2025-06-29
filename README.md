@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Aaricis" /> </div>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Aaricis" /> </div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 
 
