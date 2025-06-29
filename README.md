@@ -38,7 +38,7 @@
 
 
 </td></tr>
-
+<div>
 <!-- metrics 基础资料 -->
 <img src="/github-metrics.svg" alt="Metrics" width="100%" />
 
@@ -53,6 +53,7 @@
       </picture>
   </tr>
 </table>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaricis)
 
