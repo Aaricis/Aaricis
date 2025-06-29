@@ -25,11 +25,9 @@
   </div>
 </div>
 
-# 🙋 Hello
-
 <tr><td>
 
-## 👋 Hi there, I’m Aaricis
+# 👋 Hi there, I’m Aaricis
 
 - 🔭 I’m currently working on **Humanizing AI Through Emotional Intelligence**
 - 🌱 I’m learning **Language Modeling from Scratch, MLLM, TTS**
