@@ -36,6 +36,12 @@
 - 🌐 Website: [Personal blog](https://aaricis.github.io/)
 - 🚀 Projects: Coming soon
 
+# 📃 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 # 🤗 GitHub Stats 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Aaricis&show_icons=true&theme=light" />
