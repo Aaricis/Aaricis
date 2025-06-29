@@ -39,7 +39,20 @@
 
 </td></tr>
 
+<!-- metrics 基础资料 -->
 <img src="/github-metrics.svg" alt="Metrics" width="100%" />
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aaricis&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aaricis&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaricis&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaricis)
 
