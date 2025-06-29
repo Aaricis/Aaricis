@@ -31,12 +31,15 @@
 
 <tr><td>
 
-### 🤺 About Me
+## 👋 Hi there, I’m Aaricis
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+- 🔭 I’m currently working on **Humanizing AI Through Emotional Intelligence**
+- 🌱 I’m learning **Language Modeling from Scratch, MLLM, TTS**
+- 💬 Ask me about **Python, Pytorch, Deep Learning**
+- 📫 How to reach me: Edith_Zhang@outlook.com
+- 🌐 Website: [Personal blog](https://aaricis.github.io/)
+- 🚀 Projects: Coming soon
+
 
 </td></tr>
 </table>
