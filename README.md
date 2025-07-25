@@ -34,7 +34,7 @@
 - 💬 Ask me about **Python, Pytorch, Deep Learning**
 - 📫 How to reach me: Edith_Zhang@outlook.com
 - 🌐 Website: [Personal blog](https://aaricis.github.io/)
-- 🚀 Projects: Coming soon
+- 🚀 Projects: [从零开始构建Transformer](https://github.com/Aaricis/Build-Transformer-From-Scratch)
 
 # 📃 Latest Blog Posts
 
