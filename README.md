@@ -30,7 +30,7 @@
 # 👋 Hi there, I’m Aaricis
 
 - 🔭 I’m currently working on **Humanizing AI Through Emotional Intelligence**
-- 🌱 I’m learning **Language Modeling from Scratch, MLLM, TTS**
+- 🌱 I’m learning **Language Modeling from Scratch, TTS**
 - 💬 Ask me about **Python, Pytorch, Deep Learning**
 - 📫 How to reach me: Edith_Zhang@outlook.com
 - 🌐 Website: [Personal blog](https://aaricis.github.io/)
