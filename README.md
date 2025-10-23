@@ -33,6 +33,12 @@
 
 ---
 
+## 🚀 Currently Working On
+
+[![The Moment](https://svg.bookmark.style/api?url=https://github.com/Aaricis/the-moment&style=horizontal)](https://github.com/Aaricis/the-moment)
+
+---
+
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [李宏毅-ML2022-HW15-Meta Learning](https://aaricis.github.io/posts/Homework-15-Meta-Learning/)
