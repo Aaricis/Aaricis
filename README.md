@@ -30,11 +30,12 @@
 # 👋 Hi there, I’m Aaricis
 
 - 🔭 I’m currently working on **Humanizing AI Through Emotional Intelligence**
-- 🌱 I’m learning **Language Modeling from Scratch, TTS**
-- 💬 Ask me about **Python, Pytorch, Deep Learning**
+- 🌱 I’m studying **Speech Large Language Model, Spoken Language Processing(Text-To-Speech, Speech-To-Text)**
+- 💬 Ask me about **Python, Pytorch, Machine Learning**
 - 📫 How to reach me: Edith_Zhang@outlook.com
 - 🌐 Website: [Personal blog](https://aaricis.github.io/)
-- 🚀 Projects:[从零开始构建Transformer](https://github.com/Aaricis/Build-Transformer-From-Scratch), [SFT](https://github.com/Aaricis/Introduction-to-Generative-AI-2024-Spring/tree/main/LLM_SFT), [RLHF](https://github.com/Aaricis/Introduction-to-Generative-AI-2024-Spring/tree/main/RLHF), [Stable Diffusion Fine-tuning](https://github.com/Aaricis/Introduction-to-Generative-AI-2024-Spring/tree/main/Stable_Diffusion_SFT)
+- 🚀 Project: AI情感陪伴应用[The Moment](https://github.com/Aaricis/the-moment)
+- 📃 Tutorial: [从零开始构建Transformer](https://github.com/Aaricis/Build-Transformer-From-Scratch), [SFT](https://github.com/Aaricis/Introduction-to-Generative-AI-2024-Spring/tree/main/LLM_SFT), [RLHF](https://github.com/Aaricis/Introduction-to-Generative-AI-2024-Spring/tree/main/RLHF), [Stable Diffusion Fine-tuning](https://github.com/Aaricis/Introduction-to-Generative-AI-2024-Spring/tree/main/Stable_Diffusion_SFT)
 
 # 📃 Latest Blog Posts
 
