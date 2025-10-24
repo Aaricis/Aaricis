@@ -1,13 +1,7 @@
 <div align="center">
 
-<!-- 动态打字标题 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C%20World!%22);Have+a+nice+day!)](https://git.io/typing-svg)
-
-<!-- 头像动画 / 开发者图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="200px" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" height="200px" />
+  <img src="./assets/bg.jpg" width="600" alt="背景图">
 </picture>
 
 <br/>
