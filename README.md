@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="./assets/bg.jpg" width="600" alt="背景图">
+  <img src="./assets/bg.jpg" width="400" alt="背景图">
 </picture>
 
 <br/>
