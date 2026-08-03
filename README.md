@@ -35,11 +35,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jailbreak Olympics:Building &amp; Breaking Safety Systems](https://aaricis.github.io/posts/Jailbreak-Olympics-Building&Breaking-Safety-Systems/)
 - [Classical Chinese Instruction Tuning](https://aaricis.github.io/posts/Classical-Chinese-Instruction-Tuning/)
 - [RAG System Model Training](https://aaricis.github.io/posts/RAG-System-Model-Training/)
 - [李宏毅-ML2022-HW15-Meta Learning](https://aaricis.github.io/posts/Homework-15-Meta-Learning/)
 - [李宏毅-ML2022-HW14-Lifelong Learning](https://aaricis.github.io/posts/Homework-14-Lifelong-Learning/)
-- [李宏毅-ML2022-HW13-Network Compression](https://aaricis.github.io/posts/Homework-13-Network-Compression/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
