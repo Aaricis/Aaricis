@@ -9,6 +9,7 @@
 <!-- 社交链接徽章 -->
 <a href="https://aaricis.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>
 <a href="https://www.zhihu.com/people/zhang-kai-ge-40/posts"><img src="https://img.shields.io/badge/Zhihu-知乎-blue?logo=zhihu&logoColor=white"/></a>
+<a href="https://www.modelscope.cn/profile/TaitaiPhu"><img src="https://img.shields.io/badge/ModelScope-魔搭社区-624AFF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptMCAxOGMtNC40MTggMC04LTMuNTgyLTgtOHMzLjU4Mi04IDgtOCA4IDMuNTgyIDggOC0zLjU4MiA4LTggOHptLTEtMTNIOXYyaDN2LTJ6bTYgMGgtM3YyaDN2LTJ6bS03IDRIOXYyaDN2LTJ6bTYgMGgtM3YyaDN2LTJ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" /></a>
 <img src="https://komarev.com/ghpvc/?username=Aaricis&label=Views&color=orange&style=flat" alt="访问量统计" />
 
 </div>
