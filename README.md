@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="./assets/bg.jpg" width="400" alt="背景图">
+  <img src="./assets/Any_bg.png" width="400" alt="背景图">
 </picture>
 
 <br/>
@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Hi, I’m **Aaricis**
+## 👋 Hi, I’m **Zhang Kaige**
 
 - 🔭 Working on **Humanizing AI Through Emotional Intelligence**  
 - 🌱 Studying **Speech LLMs, Text-To-Speech, Speech-To-Text**  
