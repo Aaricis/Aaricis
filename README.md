@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="./assets/Any_bg.png" width="400" alt="背景图">
+  <img src="./assets/Any_bg.png" width="600" alt="背景图">
 </picture>
 
 <br/>
@@ -18,19 +18,18 @@
 
 ## 👋 Hi, I’m **Zhang Kaige**
 
-- 🔭 Working on **Humanizing AI Through Emotional Intelligence**  
-- 🌱 Studying **Speech LLMs, Text-To-Speech, Speech-To-Text**  
-- 💬 Ask me about **Python, PyTorch, Machine Learning**  
+- 🔭 Working on **LLM Security**、**RAG**、**大模型微调与对齐**、**AI for System**、**强化学习**  
+- 🌱 Studying **LLM Security**、**LLM Post-training**  
+- 💬 Ask me about **LLM Jailbreak**、**RAG**、**PEFT**
 - 📫 Reach me at **Edith_Zhang@outlook.com**  
 - 🌐 Website: [Personal Blog](https://aaricis.github.io/)  
-- 🚀 Project: [AI情感陪伴应用 The Moment](https://github.com/Aaricis/the-moment)  
-- 📃 Tutorials:  [Transformer From Scratch](https://github.com/Aaricis/Build-Transformer-From-Scratch), [SFT](https://github.com/Aaricis/Introduction-to-Generative-AI-2024-Spring/tree/main/LLM_SFT), [RLHF](https://github.com/Aaricis/Introduction-to-Generative-AI-2024-Spring/tree/main/RLHF), [Stable Diffusion SFT](https://github.com/Aaricis/Introduction-to-Generative-AI-2024-Spring/tree/main/Stable_Diffusion_SFT)
+- 🚀 Project: [LLM-Jailbreak-Challenge](https://github.com/Aaricis/LLM-Jailbreak-Challenge)、[Classical-Chinese-Translation-Instruction-Tuning](https://github.com/Aaricis/Classical-Chinese-Translation-Instruction-Tuning)、[RAG-System-Model-Training](https://github.com/Aaricis/RAG-System-Model-Training)、[the-moment](https://github.com/Aaricis/the-moment)
 
 ---
 
 ## 🚀 Currently Working On
 
-[![The Moment](https://svg.bookmark.style/api?url=https://github.com/Aaricis/the-moment&style=horizontal)](https://github.com/Aaricis/the-moment)
+[![LLM-Jailbreak-Challenge](https://svg.bookmark.style/api?url=https://github.com/Aaricis/LLM-Jailbreak-Challenge&style=horizontal)](https://github.com/Aaricis/LLM-Jailbreak-Challenge)
 
 ---
 
@@ -50,16 +49,6 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aaricis&show_icons=true&theme=transparent&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaricis&layout=compact&theme=transparent&hide_border=true" />
-</div>
-
----
-
-## ⚡ Activity & Metrics
-
-<div align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="90%" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaricis&theme=xcode&bg_color=FFFFFF00&hide_border=true" width="90%"/>
 </div>
 
 ---
