@@ -46,9 +46,15 @@
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aaricis&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaricis&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aaricis&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaricis&layout=compact&theme=radical&hide_border=true&count_private=true" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaricis&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
+
 
 ---
